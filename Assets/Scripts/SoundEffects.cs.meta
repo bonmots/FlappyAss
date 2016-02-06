@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 0bb97b149d71fc34c8a63bc24fc7c32a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buyAssSound: {fileID: 8300000, guid: 8200e42d625a60a459da9ef503ef33c3, type: 3}
+  - candyAssSound: {fileID: 8300000, guid: 45556b099aa3ff0449a04a6514305e1b, type: 3}
+  - creditsSound: {fileID: 8300000, guid: 5847d31d7c510744db8033963a1b93b6, type: 3}
+  - feeeshSound: {fileID: 8300000, guid: 84555f02d789e7c47aa3870cbed05c6b, type: 3}
+  - getYourRankOnSound: {fileID: 8300000, guid: d912656e8c1019e48a0ed16c72c29b44,
+      type: 3}
+  - googabsSound: {fileID: 8300000, guid: 32fd362fce30de445bcbe3c03ea19d97, type: 3}
+  - holyAssSound: {fileID: 8300000, guid: 050199b2b59e20042860ce9a0a4b7c7b, type: 3}
+  - instructionsSound: {fileID: 8300000, guid: 1f67d64432071e54b9ec5f5200153461, type: 3}
+  - laughSound: {fileID: 8300000, guid: 0e63e5098445f2743a56cc5bdd92655d, type: 3}
+  - sonOfAnAssSound: {fileID: 8300000, guid: 62a8dbdbeb92d8b43993c8f08c691747, type: 3}
+  - welcomeSound: {fileID: 8300000, guid: a5c458f9e8718a742ac6a39a8aab701b, type: 3}
+  - woahSound: {fileID: 8300000, guid: d918ab65f4244c543958b3226793b57d, type: 3}
+  - ehSound: {fileID: 8300000, guid: 4dfa3b138eae98b48ae5ef7a337e6ed4, type: 3}
+  - oopsSound: {fileID: 8300000, guid: f8d4a039758945243b513403b4ceb567, type: 3}
+  - soSound: {fileID: 8300000, guid: 58204a4ac736a264681e7cca0ea9e103, type: 3}
+  - uhSound: {fileID: 8300000, guid: c166354872a7a4e4487dce0c12228ea4, type: 3}
+  - umSound: {fileID: 8300000, guid: df4462001325a874d8557153363f46ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

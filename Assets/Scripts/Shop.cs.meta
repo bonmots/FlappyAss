@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7ff6f2638b9af854c9cefa9ada928813
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - butt: {fileID: 2800000, guid: 2090e52038a9ea74d8d697f2c1b15b56, type: 3}
+  - analyticSalmon: {fileID: 2800000, guid: 6116623d8e9e60347816398d35078ece, type: 3}
+  - hotdog: {fileID: 2800000, guid: 11d2fc1015cd9bf47a242e21adb15a58, type: 3}
+  - back: {fileID: 2800000, guid: 54e0f4a23ecf24f46be6b3ccb6f46212, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

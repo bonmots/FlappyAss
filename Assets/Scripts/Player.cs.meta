@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d4c00a2d75b87f64f98d8876493045e0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathScreen: {fileID: 2800000, guid: c86d9251a3e1a76468d40d0c29f41e96, type: 3}
+  - highScreen: {fileID: 2800000, guid: a119b652983d35f4bb154ef45c1c3986, type: 3}
+  - restart: {fileID: 2800000, guid: f431e40d3cafa984da76f9aa61f2de49, type: 3}
+  - mainMenu: {fileID: 2800000, guid: 17a074e89c1e51f4bae1c1641312b3be, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
